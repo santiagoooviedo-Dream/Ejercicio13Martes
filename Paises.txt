@@ -4,3 +4,5 @@ Venezuela
 Ecuador
 Brasil
 Argentina
+España
+Canada
