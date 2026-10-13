@@ -1,8 +1,12 @@
+--America Sur--
 Colombia
 Mexico 
 Venezuela
 Ecuador
 Brasil
 Argentina
-España
+--America Norte--
 Canada
+--Europa--
+España
+Polonia
